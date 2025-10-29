@@ -1,4 +1,4 @@
-# Uzay-tan-t-m-web-sitesi
+# uzay tanitim web sitesi
 Uzay tanıtım web sitesi
 Web sitesi uzay ve gezegenler hakkında bilgilendirme amaçlıdır.
 İçindekiler:Anasayfa, İletişim, Hakkında, Güneş Sistemi
