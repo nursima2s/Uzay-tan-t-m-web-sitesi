@@ -2,7 +2,7 @@ body {
 
   margin: 0;
   padding: 0;
-  background-image: url("D:/vize/foto/arkapl.jpg");
+  background-image: url("/foto/arkapl.jpg");
   background-size: cover;
   background-attachment: fixed;
   height: 100vh;
@@ -236,3 +236,4 @@ body a {
   color: #ddd;
   line-height: 1.6;
 }
+
